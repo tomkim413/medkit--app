@@ -1,0 +1,16 @@
+{
+  "name": "家庭药品管理系统",
+  "short_name": "药箱管理",
+  "description": "管理家庭药品，记录药物信息",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

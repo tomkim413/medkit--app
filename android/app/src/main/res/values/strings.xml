@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">家庭药品管理</string>
+    <string name="title_activity_main">家庭药品管理</string>
+    <string name="package_name">com.medkit.app</string>
+    <string name="custom_url_scheme">com.medkit.app</string>
+</resources>
