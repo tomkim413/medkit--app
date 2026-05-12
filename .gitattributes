@@ -1,0 +1,11 @@
+# 强制 gradlew 使用 LF 换行符并标记为可执行
+android/gradlew text eol=lf
+android/gradlew.bat text eol=crlf
+
+# 所有 shell 脚本使用 LF
+*.sh text eol=lf
+
+# 二进制文件不转换
+*.png binary
+*.jpg binary
+*.apk binary
